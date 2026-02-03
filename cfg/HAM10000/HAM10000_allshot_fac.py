@@ -1,7 +1,7 @@
 proj_name = "HAM10000"
 concept_root = 'datasets/HAM10000/concepts/'
 img_split_path = 'datasets/HAM10000/splits'
-img_path = 'datasets/HAM10000/images'
+img_path = '/kaggle/input/ham10000-merge/ham10000_images'
 
 img_ext = ''
 raw_sen_path = concept_root + 'concepts_raw.npy'
